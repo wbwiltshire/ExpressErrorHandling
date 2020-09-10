@@ -7,3 +7,5 @@ For more informaton:
 * [Node.js](http://Nodejs.org/)
 * [Express.js](http://Expressjs.com/)
 * [Handlebars.js](http://Handlebarsjs.com/)
+
+Upgrade to VS 2019
