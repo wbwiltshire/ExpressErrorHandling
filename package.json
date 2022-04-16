@@ -1,17 +1,17 @@
 {
-  "name": "expresserrorhandler",
-  "version": "0.9.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./app.js"
-  },
+	"name": "expresserrorhandler",
+	"version": "0.9.0",
+	"private": true,
+	"scripts": {
+		"start": "node ./app.js"
+	},
 	"dependencies": {
-		"body-parser": "^1.19.0",
-		"cookie-parser": "1.4.5",
-		"debug": "4.2.0",
-		"express": "4.17.1",
-		"hbs": "^4.1.1",
-		"moment": "2.27.0",
+		"body-parser": "1.20.0",
+		"cookie-parser": "1.4.6",
+		"debug": "4.3.4",
+		"express": "4.17.3",
+		"hbs": "4.2.0",
+		"moment": "2.29.2",
 		"morgan": "1.10.0",
 		"request": "2.88.2",
 		"request-debug": "0.2.0",
